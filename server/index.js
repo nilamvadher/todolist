@@ -14,5 +14,5 @@ app.post('/nilu', function(req, res){
 })
 
 var server = app.listen(8080)
-
+console.log("First node project done succesfully")
 
